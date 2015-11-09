@@ -1,0 +1,252 @@
+body {
+	background-image: url("https://cloud.githubusercontent.com/assets/11670915/7059058/1d685eae-de30-11e4-897b-51f0862fb5de.jpg");
+}
+button {
+ 	display: block;
+ 	height: 200px;
+ 	width: 200px;
+ 	background: linear-gradient(white, yellow);
+ 	border: 5px solid #000000;
+ 	border-radius: 50px;
+
+	position: relative;
+	margin: auto;
+	top: 280px;
+
+ 	text-align: center;
+ 	font: bold 50px  impact;
+ 	font-style: normal;
+ 	color: rgba(0, 0, 0, 0.90);
+}
+#box {
+	display: none
+
+}
+.wSpace {
+	background: linear-gradient(white, yellow);
+	border-radius: 5px 5px;
+	border: 2px solid white;
+	height: 1750px;
+	width: 1200px;
+	margin: 65px auto;
+	display: block;
+}
+#nameInfo {
+	position: fixed;
+	z-index: 0;
+	height: 250px;
+	width: 200px;
+	margin-left: 75px;
+
+}
+.ben {
+	text-shadow: 2px 2px #272724;
+	font-family: Tahoma;
+	font-style: bold;
+	font-size: 70px;
+	letter-spacing: 10px;
+	margin-top: 30px;
+	margin-left: 15px;
+	color: #666666;
+} 
+.margis {
+	text-shadow: 2px 2px #272724;
+	font-family: Times; 
+	font-size: 48px;
+	letter-spacing: 4px;
+	margin-top: -65px;
+	margin-left: 15px;
+	color: #666666;
+}
+.pInfo {
+	text-align: left;
+	margin-left: 15px;
+	font-family: Times;
+	color: #666666;
+	font-size: 12px;
+	font-style: italic;
+	line-height: 15px;
+	margin-top: -21px;
+	letter-spacing: 1px;
+}
+.cObjectives {
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+	margin-top: 40px;
+	margin-left: 350px;
+}
+.cOp {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-variant: bold;
+	margin-top: 15px;
+}
+.wExperience {
+	margin-left: 350px;
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+}
+a {
+	color: #1F1F14;
+}
+.wedge {
+	margin-left: 350px;
+	color: #141414;
+	margin-top: 10px;
+	font-style: italic;
+    font-family: Tahoma;
+}
+.wedge a:link {
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.wedge a:hover {
+	color: #cc3330;
+}
+.hums {
+	margin-left: 350px;
+	color: #141414;
+	font-style: italic;
+	font-family: Tahoma;
+}
+.hums a:link {
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+}
+.hums a:hover {
+	color: #cc3330;
+}
+.video {
+	margin-left: 350px;
+	color: #141414;
+	font-style: italic;
+	font-family: Tahoma;
+}
+.video a:link {
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: bold;
+}
+.video a:hover {
+	color: #cc3330;
+}
+.content {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-variant: bold;
+	margin-top: -15px;
+}
+ul {
+	margin-left: 350px;
+	font-family: Tahoma;
+	color: #666666;
+	font-size: 15px;
+	margin-top: -10px;
+}
+
+.underline1 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-left: 350px;
+	margin-top: -23px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.underline2 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-top: -23px; 
+	margin-left: 350px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.underline3 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-top: -27px; 
+	margin-left: 350px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.underline4 {
+	border: 1px solid #00003d;
+	width: 450px;
+	margin-left: 350px;
+	margin-top: -23px;
+	height: 5px;
+	border-radius: 0px 15px 15px 0px;
+	background: radial-gradient(red, black);
+}
+.interests {
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+	margin-top: 0px;
+	margin-left: 350px;
+}
+.moreVideo {
+	margin-left: 350px;
+	color: #141414;
+	font-style: italic;
+	font-size: 15px;
+}
+.moreBB {
+	font-size: 15px;
+}
+#comedy {
+	margin-left: 350px;
+	margin-top: 20px;
+}
+#comedy a:hover {
+	background-color: #FF0000;
+}
+#video {
+	margin-left: 350px;
+	margin-top: 35px;
+}
+#video a:hover {
+	background-color: #FF0000;
+}
+#film {
+	margin-left: 350px;
+	margin-top: 35px;
+}
+#film a:hover {
+	background-color: #FF0000;
+}
+.interestInfo {
+	margin-top: -100px;
+	margin-left: 230px;
+	font-family: Tahoma;
+	font-size: 20px;
+}
+.par {
+	margin-top: -20px;
+	margin-left: 230px;
+	font-family: Tahoma;
+}
+.videoEmbed {
+	margin-left: 350px;
+	font-family: Tahoma;
+	font-size: 30px;
+	color: #cc3330;
+}
+#embed {
+	margin-left: 350px;
+	margin-top: 15px;
+}
+
+
+
+
+
